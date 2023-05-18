@@ -7,38 +7,9 @@ integrate many great open source projects and use their data.
 
 This is an incomplete list of sources we want to integrate in Forrest.
 
-### tl:dr
-
-|             | Value                              |
-|-------------|------------------------------------|
-| Status      | not started yet                    |
-| Project URL | https://github.com/tldr-pages/tldr |
-| # commands  | ~ 2000                             |
-| Format      | Markdown                           |
-
-### Warp Workflows
-
-|             | Value                                   |
-|-------------|-----------------------------------------|
-| Status      | not started yet                         |
-| Project URL | https://github.com/warpdotdev/workflows |
-| # commands  | ?                                       |
-| Format      | YAML                                    |
-
-### Ansible scripts
-
-|             | Value           |
-|-------------|-----------------|
-| Status      | not started yet |
-| Project URL | ?               |
-| # commands  | ?               |
-| Format      | Proprietary     |
-
-### Docker files
-
-|             | Value           |
-|-------------|-----------------|
-| Status      | not started yet |
-| Project URL | ?               |
-| # commands  | ?               |
-| Format      | ?               |
+| Name            | Status          | URL                                     | # Commands | Format      |
+|:----------------|:----------------|:----------------------------------------|:-----------|:------------|
+| TL:DR           | not started yet | https://github.com/tldr-pages/tldr      | 2000       | Markdown    |
+| Warp Workflows  | not started yet | https://github.com/warpdotdev/workflows | ?          | Yaml        |
+| Ansible scripts | not started yet |                                         | 2000       | Proprietary |
+| Docker files    | not started yet |                                         | 2000       |             |
